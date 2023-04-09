@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("Git: hello 靓仔6 hot_fix test !");
         System.out.println("Git: hello 靓仔7 push test !");
         System.out.println("Git: hello 靓仔7 pull test 1 !");
+        System.out.println("Git: hello 靓仔7 github update !");
     }
 }
